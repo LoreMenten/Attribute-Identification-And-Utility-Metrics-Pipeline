@@ -1,0 +1,501 @@
+,Row_Number,report_source,sex,age,edss,bmi,covid19_admission_hospital,covid19_confirmed_case,covid19_diagnosis,covid19_symptoms,covid19_icu_stay,covid19_outcome_recovered,covid19_ventilation,comorbidities,ms_type,ms_diagnosis_date
+0,1,patients,female,18-40,0.0-4.5,healthy weight,no,yes,not_suspected,no,no,no,no,no,RRMS,2010-2014
+1,2,patients,female,40-69,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,yes,yes,no,RRMS,2005-2009
+2,3,patients,female,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,yes,yes,missing,no,RRMS,2010-2014
+3,4,clinicians,female,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,no,yes,missing,no,RRMS,2000-2004
+4,5,clinicians,male,18-40,5.0-10.0,obese,no,no,suspected,no,no,not_applicable,no,yes,SPMS,2015-2019
+5,6,patients,male,40-69,0.0-4.5,overweight,no,yes,suspected,yes,no,no,no,no,RRMS,1995-1999
+6,7,clinicians,female,18-40,0.0-4.5,obese,no,no,suspected,no,no,not_applicable,no,yes,CIS,> 2019
+7,8,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,yes,yes,no,yes,no,RRMS,2000-2004
+8,9,clinicians,female,18-40,5.0-10.0,healthy weight,no,no,suspected,no,no,not_applicable,no,yes,RRMS,2010-2014
+9,10,clinicians,male,18-40,0.0-4.5,overweight,yes,yes,not_suspected,no,yes,no,no,yes,SPMS,2010-2014
+10,11,clinicians,male,18-40,0.0-4.5,overweight,yes,yes,not_suspected,yes,no,yes,missing,no,RRMS,> 2019
+11,12,patients,male,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,no,yes,yes,no,yes,RRMS,> 2019
+12,13,clinicians,male,40-69,0.0-4.5,overweight,yes,yes,not_suspected,no,yes,no,no,yes,RRMS,1990-1994
+13,14,patients,female,40-69,0.0-4.5,obese,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,2015-2019
+14,15,patients,female,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,yes,yes,yes,yes,SPMS,2015-2019
+15,16,patients,male,18-40,0.0-4.5,overweight,no,yes,not_suspected,yes,no,yes,no,yes,RRMS,> 2019
+16,17,patients,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,yes,missing,yes,RRMS,2010-2014
+17,18,clinicians,male,18-40,5.0-10.0,obese,yes,yes,suspected,no,yes,no,missing,yes,SPMS,2000-2004
+18,19,patients,female,40-69,5.0-10.0,healthy weight,no,no,not_suspected,no,no,not_applicable,no,yes,CIS,2005-2009
+19,20,clinicians,male,40-69,5.0-10.0,overweight,no,yes,suspected,yes,no,no,no,yes,RRMS,2005-2009
+20,21,clinicians,male,40-69,5.0-10.0,obese,no,yes,not_suspected,no,no,no,no,no,RRMS,2015-2019
+21,22,patients,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,no,yes,not_sure,2015-2019
+22,23,patients,male,40-69,5.0-10.0,obese,yes,yes,suspected,yes,no,yes,no,yes,PPMS,> 2019
+23,24,clinicians,male,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,yes,yes,no,no,RRMS,2010-2014
+24,25,patients,male,18-40,0.0-4.5,obese,no,no,suspected,no,no,not_applicable,no,no,RRMS,> 2019
+25,26,patients,female,18-40,0.0-4.5,healthy weight,no,yes,not_suspected,no,no,yes,no,no,SPMS,2005-2009
+26,27,clinicians,female,40-69,0.0-4.5,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,1990-1994
+27,28,patients,female,40-69,0.0-4.5,healthy weight,no,no,suspected,no,no,not_applicable,no,yes,CIS,2015-2019
+28,29,clinicians,female,40-69,0.0-4.5,healthy weight,no,yes,not_suspected,no,no,yes,no,no,CIS,1980-1984
+29,30,clinicians,male,18-40,0.0-4.5,healthy weight,yes,yes,suspected,yes,yes,no,missing,yes,CIS,2015-2019
+30,31,patients,female,40-69,5.0-10.0,overweight,yes,yes,suspected,no,yes,yes,missing,yes,CIS,1995-1999
+31,32,patients,male,18-40,5.0-10.0,overweight,yes,yes,suspected,no,no,yes,no,yes,SPMS,> 2019
+32,33,patients,male,18-40,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,yes,CIS,2015-2019
+33,34,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,no,no,yes,missing,yes,CIS,2010-2014
+34,35,patients,female,40-69,5.0-10.0,obese,yes,yes,not_suspected,yes,yes,yes,no,yes,RRMS,1985-1989
+35,36,patients,male,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,no,no,missing,no,RRMS,> 2019
+36,37,patients,female,18-40,5.0-10.0,overweight,no,no,suspected,yes,no,not_applicable,no,yes,RRMS,> 2019
+37,38,patients,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,no,yes,no,yes,not_sure,2015-2019
+38,39,clinicians,male,18-40,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,no,CIS,1995-1999
+39,40,patients,male,18-40,5.0-10.0,obese,no,yes,suspected,no,no,yes,no,no,SPMS,2015-2019
+40,41,patients,male,18-40,0.0-4.5,obese,yes,yes,suspected,no,no,yes,missing,no,RRMS,2015-2019
+41,42,patients,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,no,missing,yes,RRMS,> 2019
+42,43,clinicians,male,40-69,5.0-10.0,healthy weight,no,yes,suspected,yes,no,no,no,yes,RRMS,2000-2004
+43,44,patients,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,no,yes,missing,yes,RRMS,> 2019
+44,45,clinicians,female,40-69,5.0-10.0,obese,no,yes,suspected,no,no,no,no,no,CIS,2010-2014
+45,46,clinicians,female,40-69,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,yes,not_sure,1995-1999
+46,47,patients,male,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,missing,no,RRMS,2015-2019
+47,48,clinicians,male,18-40,0.0-4.5,obese,no,no,not_suspected,no,no,not_applicable,no,yes,RRMS,2005-2009
+48,49,clinicians,male,18-40,5.0-10.0,healthy weight,no,no,suspected,no,no,not_applicable,no,yes,RRMS,2015-2019
+49,50,clinicians,male,18-40,5.0-10.0,obese,no,yes,suspected,no,no,no,no,no,RRMS,2010-2014
+50,51,patients,female,40-69,5.0-10.0,obese,yes,yes,not_suspected,no,no,no,no,no,RRMS,1990-1994
+51,52,clinicians,female,40-69,0.0-4.5,overweight,no,yes,not_suspected,no,no,yes,no,yes,RRMS,2005-2009
+52,53,clinicians,male,18-40,0.0-4.5,overweight,yes,yes,suspected,yes,yes,no,yes,yes,RRMS,2010-2014
+53,54,clinicians,male,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,no,no,yes,no,no,RRMS,2010-2014
+54,55,patients,female,40-69,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,yes,RRMS,1995-1999
+55,56,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,suspected,no,yes,no,missing,yes,PPMS,2000-2004
+56,57,patients,female,40-69,0.0-4.5,obese,no,yes,suspected,yes,no,no,no,yes,CIS,1985-1989
+57,58,clinicians,male,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,yes,yes,missing,yes,RRMS,2015-2019
+58,59,patients,female,18-40,0.0-4.5,overweight,yes,yes,not_suspected,yes,yes,yes,yes,no,not_sure,2015-2019
+59,60,patients,female,40-69,0.0-4.5,obese,yes,yes,not_suspected,no,no,yes,no,no,RRMS,1990-1994
+60,61,clinicians,male,18-40,0.0-4.5,obese,yes,yes,suspected,yes,no,no,yes,yes,not_sure,2005-2009
+61,62,patients,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,no,no,no,yes,RRMS,> 2019
+62,63,clinicians,male,18-40,0.0-4.5,obese,yes,yes,not_suspected,yes,yes,no,no,yes,PPMS,> 2019
+63,64,patients,male,18-40,0.0-4.5,obese,no,yes,not_suspected,yes,no,yes,no,yes,RRMS,1995-1999
+64,65,patients,male,40-69,5.0-10.0,obese,yes,yes,not_suspected,yes,yes,yes,yes,no,not_sure,2010-2014
+65,66,clinicians,female,18-40,0.0-4.5,healthy weight,no,no,suspected,no,no,not_applicable,no,no,RRMS,2015-2019
+66,67,patients,female,40-69,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,not_sure,2005-2009
+67,68,clinicians,male,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,no,no,CIS,> 2019
+68,69,clinicians,male,40-69,0.0-4.5,healthy weight,no,no,suspected,no,no,not_applicable,no,yes,not_sure,> 2019
+69,70,patients,female,40-69,5.0-10.0,obese,yes,yes,not_suspected,yes,no,yes,yes,no,RRMS,2010-2014
+70,71,clinicians,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,yes,missing,yes,RRMS,2000-2004
+71,72,patients,female,40-69,0.0-4.5,overweight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,2010-2014
+72,73,patients,female,40-69,0.0-4.5,overweight,no,yes,not_suspected,no,no,no,no,no,CIS,< 1980
+73,74,patients,male,40-69,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,yes,PPMS,2000-2004
+74,75,clinicians,female,18-40,0.0-4.5,healthy weight,no,yes,suspected,yes,no,no,no,no,not_sure,2015-2019
+75,76,clinicians,male,18-40,0.0-4.5,overweight,yes,yes,suspected,yes,yes,yes,missing,yes,PPMS,2005-2009
+76,77,clinicians,male,40-69,5.0-10.0,obese,no,yes,not_suspected,yes,no,no,no,yes,CIS,1990-1994
+77,78,patients,female,18-40,0.0-4.5,healthy weight,yes,yes,suspected,no,yes,yes,no,yes,RRMS,2000-2004
+78,79,clinicians,female,18-40,0.0-4.5,healthy weight,no,no,not_suspected,no,no,not_applicable,no,no,RRMS,> 2019
+79,80,patients,female,18-40,5.0-10.0,obese,yes,yes,not_suspected,no,no,yes,missing,no,CIS,2015-2019
+80,81,patients,male,18-40,0.0-4.5,obese,no,yes,not_suspected,yes,no,no,no,no,CIS,2015-2019
+81,82,clinicians,female,40-69,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,no,SPMS,2000-2004
+82,83,clinicians,male,40-69,0.0-4.5,healthy weight,no,yes,suspected,no,no,yes,no,no,CIS,< 1980
+83,84,clinicians,female,40-69,0.0-4.5,healthy weight,no,yes,not_suspected,no,no,yes,no,no,PPMS,< 1980
+84,85,patients,female,18-40,0.0-4.5,overweight,yes,yes,suspected,no,no,yes,missing,no,RRMS,2015-2019
+85,86,patients,female,40-69,5.0-10.0,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,RRMS,2000-2004
+86,87,clinicians,male,18-40,0.0-4.5,obese,no,no,suspected,yes,no,not_applicable,no,no,RRMS,2010-2014
+87,88,clinicians,female,18-40,0.0-4.5,obese,no,yes,suspected,no,no,yes,no,no,CIS,> 2019
+88,89,clinicians,male,40-69,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,no,not_sure,2015-2019
+89,90,clinicians,female,18-40,0.0-4.5,healthy weight,yes,yes,suspected,no,no,no,missing,no,CIS,2015-2019
+90,91,clinicians,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,no,no,yes,missing,no,SPMS,2015-2019
+91,92,clinicians,male,40-69,0.0-4.5,obese,no,no,suspected,yes,no,not_applicable,no,yes,RRMS,1980-1984
+92,93,patients,male,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,yes,no,missing,no,CIS,< 1980
+93,94,patients,female,40-69,0.0-4.5,obese,yes,yes,not_suspected,no,yes,yes,no,yes,not_sure,2005-2009
+94,95,clinicians,male,40-69,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,no,missing,no,RRMS,2005-2009
+95,96,clinicians,male,40-69,0.0-4.5,overweight,yes,yes,not_suspected,yes,no,yes,yes,yes,CIS,2015-2019
+96,97,clinicians,male,40-69,0.0-4.5,overweight,yes,yes,not_suspected,no,no,yes,yes,yes,CIS,1985-1989
+97,98,clinicians,male,18-40,5.0-10.0,obese,no,yes,suspected,no,no,yes,no,no,PPMS,2005-2009
+98,99,patients,male,40-69,5.0-10.0,obese,yes,yes,suspected,no,yes,yes,no,yes,RRMS,2010-2014
+99,100,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,no,no,yes,not_sure,2005-2009
+100,101,clinicians,female,18-40,0.0-4.5,overweight,yes,yes,not_suspected,yes,yes,yes,missing,no,RRMS,> 2019
+101,102,patients,male,18-40,0.0-4.5,obese,no,yes,not_suspected,yes,no,no,no,no,not_sure,> 2019
+102,103,clinicians,male,18-40,5.0-10.0,overweight,no,yes,not_suspected,yes,no,no,no,no,RRMS,2015-2019
+103,104,patients,male,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,no,no,no,missing,yes,RRMS,< 1980
+104,105,patients,male,40-69,5.0-10.0,overweight,no,yes,not_suspected,no,no,no,no,no,RRMS,1980-1984
+105,106,clinicians,male,40-69,0.0-4.5,overweight,no,yes,suspected,yes,no,no,no,yes,PPMS,1995-1999
+106,107,clinicians,female,18-40,5.0-10.0,overweight,no,no,not_suspected,no,no,not_applicable,no,yes,RRMS,2010-2014
+107,108,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,suspected,no,no,no,no,no,RRMS,1980-1984
+108,109,patients,male,18-40,0.0-4.5,healthy weight,no,yes,not_suspected,yes,no,yes,no,no,CIS,> 2019
+109,110,patients,male,18-40,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,PPMS,2010-2014
+110,111,patients,male,40-69,5.0-10.0,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,no,SPMS,> 2019
+111,112,patients,female,40-69,0.0-4.5,overweight,yes,yes,not_suspected,yes,no,yes,no,no,RRMS,1980-1984
+112,113,clinicians,male,18-40,0.0-4.5,overweight,no,yes,suspected,yes,no,yes,no,no,RRMS,> 2019
+113,114,patients,female,18-40,5.0-10.0,obese,yes,yes,suspected,no,yes,yes,yes,no,CIS,2015-2019
+114,115,patients,female,40-69,0.0-4.5,healthy weight,no,no,suspected,no,no,not_applicable,no,yes,RRMS,< 1980
+115,116,patients,female,18-40,0.0-4.5,healthy weight,no,yes,suspected,no,no,yes,no,yes,RRMS,2005-2009
+116,117,patients,male,40-69,5.0-10.0,obese,no,no,suspected,yes,no,not_applicable,no,yes,CIS,1995-1999
+117,118,clinicians,female,40-69,5.0-10.0,obese,yes,yes,not_suspected,no,no,no,no,no,RRMS,2005-2009
+118,119,clinicians,male,40-69,5.0-10.0,overweight,no,no,not_suspected,no,no,not_applicable,no,yes,RRMS,1985-1989
+119,120,clinicians,male,18-40,5.0-10.0,overweight,yes,yes,not_suspected,no,no,no,no,yes,not_sure,> 2019
+120,121,patients,female,18-40,5.0-10.0,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,no,PPMS,2015-2019
+121,122,clinicians,male,18-40,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,no,missing,no,CIS,2000-2004
+122,123,clinicians,male,18-40,5.0-10.0,overweight,yes,yes,not_suspected,yes,no,yes,no,yes,not_sure,2000-2004
+123,124,patients,female,18-40,0.0-4.5,overweight,yes,yes,not_suspected,no,yes,yes,missing,yes,RRMS,> 2019
+124,125,clinicians,female,40-69,5.0-10.0,obese,yes,yes,not_suspected,yes,yes,yes,no,no,RRMS,2005-2009
+125,126,clinicians,female,40-69,0.0-4.5,healthy weight,no,yes,not_suspected,yes,no,yes,no,no,not_sure,2015-2019
+126,127,patients,male,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,no,no,yes,yes,no,RRMS,1990-1994
+127,128,patients,female,18-40,5.0-10.0,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,> 2019
+128,129,clinicians,female,18-40,0.0-4.5,obese,no,yes,not_suspected,no,no,no,no,yes,not_sure,2015-2019
+129,130,clinicians,male,40-69,5.0-10.0,overweight,yes,yes,suspected,yes,yes,no,no,no,CIS,2010-2014
+130,131,patients,male,40-69,5.0-10.0,obese,no,yes,suspected,yes,no,yes,no,no,RRMS,1995-1999
+131,132,patients,male,18-40,0.0-4.5,overweight,no,no,not_suspected,no,no,not_applicable,no,yes,CIS,2000-2004
+132,133,clinicians,male,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,no,no,yes,no,PPMS,2005-2009
+133,134,patients,male,40-69,0.0-4.5,obese,yes,yes,not_suspected,yes,no,yes,no,yes,RRMS,1995-1999
+134,135,patients,male,18-40,0.0-4.5,overweight,yes,yes,not_suspected,no,no,no,no,yes,CIS,2005-2009
+135,136,patients,male,18-40,5.0-10.0,obese,no,yes,suspected,yes,no,no,no,yes,CIS,2000-2004
+136,137,patients,female,18-40,0.0-4.5,overweight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,2010-2014
+137,138,clinicians,female,40-69,5.0-10.0,overweight,no,yes,suspected,no,no,no,no,yes,RRMS,2010-2014
+138,139,patients,male,40-69,5.0-10.0,obese,no,yes,suspected,no,no,no,no,no,RRMS,1990-1994
+139,140,patients,female,18-40,5.0-10.0,overweight,no,yes,not_suspected,no,no,no,no,no,PPMS,1995-1999
+140,141,clinicians,male,40-69,5.0-10.0,overweight,yes,yes,not_suspected,no,no,no,yes,no,RRMS,1985-1989
+141,142,clinicians,male,18-40,5.0-10.0,overweight,no,yes,suspected,yes,no,yes,no,yes,RRMS,> 2019
+142,143,clinicians,female,18-40,0.0-4.5,overweight,yes,yes,not_suspected,no,yes,yes,no,yes,PPMS,> 2019
+143,144,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,suspected,yes,no,no,yes,yes,CIS,2015-2019
+144,145,patients,female,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,yes,no,no,yes,RRMS,> 2019
+145,146,patients,female,18-40,5.0-10.0,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,RRMS,2005-2009
+146,147,patients,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,yes,no,no,yes,SPMS,> 2019
+147,148,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,yes,yes,yes,no,not_sure,> 2019
+148,149,clinicians,female,40-69,5.0-10.0,obese,no,no,suspected,no,no,not_applicable,no,no,RRMS,1980-1984
+149,150,clinicians,female,40-69,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,no,SPMS,2005-2009
+150,151,patients,female,40-69,5.0-10.0,healthy weight,no,no,suspected,yes,no,not_applicable,no,no,CIS,2000-2004
+151,152,clinicians,male,18-40,5.0-10.0,healthy weight,yes,yes,suspected,no,no,yes,no,no,CIS,2015-2019
+152,153,clinicians,male,18-40,0.0-4.5,obese,yes,yes,not_suspected,no,yes,yes,yes,yes,CIS,2015-2019
+153,154,patients,male,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,yes,yes,RRMS,2015-2019
+154,155,patients,male,40-69,5.0-10.0,overweight,no,yes,suspected,yes,no,yes,no,yes,not_sure,2005-2009
+155,156,patients,male,40-69,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,SPMS,> 2019
+156,157,patients,male,40-69,0.0-4.5,obese,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,2010-2014
+157,158,patients,female,40-69,0.0-4.5,obese,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,1980-1984
+158,159,patients,male,40-69,5.0-10.0,obese,no,no,suspected,yes,no,not_applicable,no,yes,PPMS,1985-1989
+159,160,clinicians,female,18-40,5.0-10.0,obese,no,yes,not_suspected,no,no,no,no,yes,SPMS,> 2019
+160,161,patients,male,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,no,yes,RRMS,2005-2009
+161,162,clinicians,male,40-69,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,yes,CIS,1985-1989
+162,163,clinicians,female,40-69,0.0-4.5,overweight,no,yes,suspected,yes,no,no,no,no,SPMS,2010-2014
+163,164,clinicians,female,18-40,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,yes,CIS,> 2019
+164,165,clinicians,female,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,yes,yes,missing,yes,RRMS,2005-2009
+165,166,clinicians,female,40-69,5.0-10.0,obese,no,yes,not_suspected,yes,no,yes,no,no,CIS,2005-2009
+166,167,clinicians,male,18-40,5.0-10.0,overweight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,2010-2014
+167,168,patients,male,18-40,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,2005-2009
+168,169,patients,female,18-40,5.0-10.0,obese,yes,yes,suspected,yes,no,no,no,yes,PPMS,2015-2019
+169,170,patients,male,40-69,0.0-4.5,healthy weight,no,yes,suspected,no,no,no,no,yes,PPMS,2005-2009
+170,171,patients,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,yes,no,no,missing,no,RRMS,2015-2019
+171,172,patients,female,40-69,5.0-10.0,healthy weight,no,yes,suspected,no,no,no,no,yes,RRMS,< 1980
+172,173,patients,male,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,no,yes,yes,PPMS,> 2019
+173,174,patients,male,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,yes,yes,no,no,CIS,2010-2014
+174,175,clinicians,female,40-69,0.0-4.5,healthy weight,no,no,not_suspected,no,no,not_applicable,no,yes,PPMS,> 2019
+175,176,clinicians,male,18-40,5.0-10.0,healthy weight,no,yes,suspected,no,no,yes,no,no,RRMS,> 2019
+176,177,clinicians,female,40-69,5.0-10.0,healthy weight,no,yes,not_suspected,yes,no,yes,no,no,RRMS,1985-1989
+177,178,clinicians,male,18-40,0.0-4.5,healthy weight,yes,yes,suspected,yes,no,no,no,no,PPMS,2015-2019
+178,179,clinicians,male,18-40,5.0-10.0,obese,no,no,suspected,yes,no,not_applicable,no,no,RRMS,2015-2019
+179,180,patients,female,18-40,5.0-10.0,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,> 2019
+180,181,clinicians,female,18-40,5.0-10.0,obese,no,yes,suspected,yes,no,yes,no,yes,PPMS,2005-2009
+181,182,patients,female,40-69,0.0-4.5,overweight,no,yes,not_suspected,yes,no,yes,no,yes,PPMS,2015-2019
+182,183,patients,male,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,no,yes,no,yes,yes,CIS,> 2019
+183,184,patients,female,40-69,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,no,CIS,2015-2019
+184,185,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,yes,no,yes,no,SPMS,2010-2014
+185,186,patients,male,18-40,5.0-10.0,healthy weight,yes,yes,suspected,yes,no,yes,no,yes,CIS,2015-2019
+186,187,clinicians,female,18-40,0.0-4.5,healthy weight,no,no,not_suspected,no,no,not_applicable,no,no,CIS,2000-2004
+187,188,patients,male,18-40,5.0-10.0,obese,yes,yes,suspected,no,yes,no,missing,yes,SPMS,2010-2014
+188,189,clinicians,male,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,no,no,no,missing,yes,RRMS,2015-2019
+189,190,patients,male,18-40,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,yes,CIS,2010-2014
+190,191,clinicians,male,40-69,5.0-10.0,overweight,no,yes,not_suspected,yes,no,yes,no,yes,PPMS,2005-2009
+191,192,patients,male,40-69,0.0-4.5,healthy weight,no,no,not_suspected,no,no,not_applicable,no,yes,PPMS,2010-2014
+192,193,patients,male,18-40,5.0-10.0,obese,yes,yes,not_suspected,yes,yes,yes,yes,yes,not_sure,2010-2014
+193,194,clinicians,male,40-69,0.0-4.5,healthy weight,yes,yes,not_suspected,no,no,yes,missing,no,RRMS,2005-2009
+194,195,clinicians,female,40-69,5.0-10.0,obese,no,yes,not_suspected,no,no,yes,no,yes,CIS,< 1980
+195,196,patients,female,18-40,5.0-10.0,overweight,yes,yes,suspected,no,no,yes,yes,no,not_sure,> 2019
+196,197,patients,male,40-69,5.0-10.0,obese,no,no,not_suspected,no,no,not_applicable,no,yes,RRMS,1985-1989
+197,198,patients,female,40-69,5.0-10.0,healthy weight,yes,yes,suspected,yes,no,yes,yes,no,PPMS,2015-2019
+198,199,clinicians,female,18-40,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,no,yes,no,PPMS,2015-2019
+199,200,patients,female,40-69,0.0-4.5,healthy weight,no,yes,not_suspected,no,no,yes,no,no,PPMS,1990-1994
+200,201,clinicians,male,40-69,5.0-10.0,overweight,no,yes,suspected,yes,no,yes,no,no,CIS,2015-2019
+201,202,clinicians,female,40-69,5.0-10.0,overweight,no,yes,suspected,no,no,yes,no,yes,CIS,< 1980
+202,203,patients,female,40-69,0.0-4.5,obese,yes,yes,not_suspected,yes,no,yes,missing,no,not_sure,1980-1984
+203,204,patients,female,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,no,no,yes,yes,no,PPMS,> 2019
+204,205,patients,female,40-69,5.0-10.0,healthy weight,no,no,suspected,yes,no,not_applicable,no,no,not_sure,2000-2004
+205,206,patients,female,40-69,5.0-10.0,overweight,yes,yes,suspected,no,no,no,missing,yes,RRMS,2015-2019
+206,207,clinicians,male,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,yes,yes,yes,yes,RRMS,> 2019
+207,208,patients,female,18-40,0.0-4.5,obese,no,yes,not_suspected,yes,no,yes,no,yes,PPMS,> 2019
+208,209,patients,male,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,no,missing,yes,PPMS,2015-2019
+209,210,clinicians,male,40-69,5.0-10.0,overweight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,2015-2019
+210,211,patients,male,40-69,5.0-10.0,obese,yes,yes,suspected,yes,yes,yes,missing,no,PPMS,> 2019
+211,212,patients,female,18-40,0.0-4.5,overweight,no,yes,not_suspected,yes,no,yes,no,no,not_sure,2015-2019
+212,213,clinicians,male,18-40,5.0-10.0,overweight,yes,yes,not_suspected,no,yes,no,missing,no,RRMS,2015-2019
+213,214,clinicians,female,18-40,5.0-10.0,healthy weight,yes,yes,suspected,no,yes,yes,no,no,RRMS,2015-2019
+214,215,patients,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,no,no,yes,RRMS,2000-2004
+215,216,patients,male,40-69,0.0-4.5,overweight,yes,yes,not_suspected,yes,yes,no,yes,yes,CIS,1995-1999
+216,217,clinicians,female,40-69,0.0-4.5,obese,yes,yes,not_suspected,no,no,yes,missing,no,SPMS,2010-2014
+217,218,patients,male,18-40,5.0-10.0,overweight,no,no,not_suspected,no,no,not_applicable,no,yes,CIS,2000-2004
+218,219,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,no,no,yes,yes,RRMS,1995-1999
+219,220,clinicians,male,18-40,0.0-4.5,healthy weight,yes,yes,suspected,yes,yes,yes,no,no,not_sure,2015-2019
+220,221,patients,female,40-69,5.0-10.0,overweight,yes,yes,not_suspected,no,no,no,missing,yes,RRMS,> 2019
+221,222,patients,male,40-69,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,CIS,< 1980
+222,223,clinicians,male,40-69,5.0-10.0,obese,yes,yes,suspected,yes,no,yes,missing,yes,SPMS,> 2019
+223,224,clinicians,female,18-40,0.0-4.5,overweight,yes,yes,suspected,no,no,yes,no,yes,RRMS,2010-2014
+224,225,patients,female,40-69,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,yes,no,no,CIS,1980-1984
+225,226,clinicians,male,40-69,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,no,yes,not_sure,2005-2009
+226,227,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,yes,no,yes,missing,no,RRMS,1985-1989
+227,228,patients,female,18-40,0.0-4.5,obese,yes,yes,not_suspected,yes,no,yes,yes,no,SPMS,2015-2019
+228,229,patients,female,18-40,0.0-4.5,obese,yes,yes,suspected,no,yes,no,missing,no,SPMS,2010-2014
+229,230,clinicians,male,40-69,0.0-4.5,overweight,no,no,not_suspected,no,no,not_applicable,no,no,RRMS,> 2019
+230,231,patients,female,18-40,0.0-4.5,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,PPMS,2010-2014
+231,232,patients,male,18-40,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,yes,not_sure,2005-2009
+232,233,clinicians,female,18-40,5.0-10.0,overweight,yes,yes,suspected,no,no,yes,yes,yes,SPMS,2015-2019
+233,234,patients,female,18-40,5.0-10.0,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,no,CIS,> 2019
+234,235,clinicians,female,18-40,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,no,RRMS,> 2019
+235,236,clinicians,female,18-40,0.0-4.5,healthy weight,yes,yes,suspected,yes,yes,no,yes,no,CIS,> 2019
+236,237,clinicians,female,40-69,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,no,RRMS,> 2019
+237,238,patients,female,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,no,yes,no,no,SPMS,2000-2004
+238,239,patients,male,40-69,0.0-4.5,obese,no,no,suspected,no,no,not_applicable,no,yes,PPMS,2015-2019
+239,240,clinicians,female,40-69,5.0-10.0,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,1990-1994
+240,241,clinicians,female,18-40,5.0-10.0,overweight,no,yes,not_suspected,yes,no,no,no,no,RRMS,> 2019
+241,242,clinicians,female,40-69,0.0-4.5,obese,no,no,not_suspected,no,no,not_applicable,no,yes,not_sure,1990-1994
+242,243,clinicians,female,40-69,0.0-4.5,healthy weight,no,yes,suspected,yes,no,yes,no,no,not_sure,1985-1989
+243,244,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,suspected,no,no,no,yes,yes,PPMS,2005-2009
+244,245,clinicians,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,no,no,no,no,CIS,> 2019
+245,246,patients,male,18-40,0.0-4.5,obese,no,yes,suspected,yes,no,no,no,yes,PPMS,2015-2019
+246,247,patients,female,18-40,0.0-4.5,overweight,yes,yes,suspected,yes,no,no,no,no,RRMS,2010-2014
+247,248,patients,male,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,yes,no,no,no,CIS,1995-1999
+248,249,clinicians,female,40-69,5.0-10.0,healthy weight,no,no,suspected,yes,no,not_applicable,no,no,CIS,2000-2004
+249,250,patients,male,40-69,0.0-4.5,obese,no,no,not_suspected,yes,no,not_applicable,no,yes,PPMS,< 1980
+250,251,patients,female,18-40,0.0-4.5,overweight,yes,yes,suspected,yes,yes,no,yes,yes,PPMS,> 2019
+251,252,patients,female,40-69,5.0-10.0,healthy weight,yes,yes,suspected,no,no,no,missing,yes,not_sure,> 2019
+252,253,patients,female,18-40,0.0-4.5,healthy weight,no,yes,not_suspected,yes,no,yes,no,yes,PPMS,2015-2019
+253,254,clinicians,male,40-69,5.0-10.0,obese,no,no,suspected,yes,no,not_applicable,no,yes,SPMS,> 2019
+254,255,patients,female,40-69,5.0-10.0,healthy weight,yes,yes,suspected,no,no,yes,yes,no,RRMS,1995-1999
+255,256,clinicians,male,18-40,0.0-4.5,healthy weight,yes,yes,suspected,no,no,yes,missing,no,PPMS,> 2019
+256,257,patients,female,40-69,0.0-4.5,healthy weight,no,yes,not_suspected,yes,no,no,no,yes,PPMS,2015-2019
+257,258,patients,male,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,yes,no,no,yes,PPMS,1980-1984
+258,259,clinicians,male,18-40,0.0-4.5,healthy weight,no,yes,not_suspected,yes,no,no,no,no,RRMS,1995-1999
+259,260,patients,female,40-69,0.0-4.5,obese,no,no,not_suspected,no,no,not_applicable,no,no,CIS,2005-2009
+260,261,clinicians,female,40-69,5.0-10.0,healthy weight,no,yes,not_suspected,yes,no,no,no,yes,PPMS,2000-2004
+261,262,patients,female,40-69,5.0-10.0,obese,no,no,suspected,yes,no,not_applicable,no,yes,PPMS,2015-2019
+262,263,patients,female,18-40,5.0-10.0,obese,no,no,suspected,no,no,not_applicable,no,no,RRMS,2005-2009
+263,264,patients,male,40-69,0.0-4.5,obese,no,yes,not_suspected,no,no,no,no,yes,RRMS,2000-2004
+264,265,clinicians,female,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,yes,no,missing,no,RRMS,> 2019
+265,266,patients,female,18-40,0.0-4.5,overweight,no,no,suspected,no,no,not_applicable,no,no,PPMS,2010-2014
+266,267,clinicians,female,18-40,0.0-4.5,healthy weight,yes,yes,suspected,yes,yes,yes,no,yes,CIS,2005-2009
+267,268,patients,male,18-40,0.0-4.5,healthy weight,no,no,not_suspected,no,no,not_applicable,no,yes,RRMS,2010-2014
+268,269,clinicians,female,40-69,5.0-10.0,overweight,yes,yes,suspected,yes,no,no,yes,no,RRMS,2005-2009
+269,270,clinicians,female,18-40,0.0-4.5,healthy weight,no,yes,not_suspected,no,no,yes,no,no,RRMS,2010-2014
+270,271,patients,male,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,yes,yes,no,yes,PPMS,> 2019
+271,272,patients,female,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,no,no,missing,no,RRMS,2000-2004
+272,273,patients,female,40-69,0.0-4.5,obese,yes,yes,not_suspected,yes,yes,no,no,no,RRMS,2000-2004
+273,274,patients,male,18-40,5.0-10.0,obese,no,no,suspected,no,no,not_applicable,no,no,RRMS,2015-2019
+274,275,clinicians,male,18-40,0.0-4.5,healthy weight,no,no,suspected,no,no,not_applicable,no,yes,SPMS,2010-2014
+275,276,patients,female,18-40,0.0-4.5,healthy weight,yes,yes,suspected,yes,no,no,yes,yes,RRMS,2010-2014
+276,277,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,suspected,no,no,yes,missing,no,PPMS,2005-2009
+277,278,patients,female,40-69,5.0-10.0,overweight,yes,yes,suspected,no,yes,no,no,yes,CIS,1990-1994
+278,279,patients,female,18-40,5.0-10.0,healthy weight,yes,yes,suspected,no,yes,no,no,no,CIS,2000-2004
+279,280,patients,female,40-69,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,missing,no,RRMS,2015-2019
+280,281,patients,female,40-69,0.0-4.5,obese,no,yes,not_suspected,yes,no,no,no,no,CIS,2010-2014
+281,282,patients,female,40-69,5.0-10.0,obese,yes,yes,suspected,no,yes,no,missing,yes,RRMS,1995-1999
+282,283,patients,female,40-69,5.0-10.0,obese,yes,yes,suspected,no,no,no,yes,no,CIS,< 1980
+283,284,clinicians,female,18-40,5.0-10.0,obese,no,yes,not_suspected,no,no,no,no,yes,RRMS,2015-2019
+284,285,clinicians,male,18-40,5.0-10.0,obese,yes,yes,suspected,no,no,no,no,yes,SPMS,2000-2004
+285,286,patients,female,40-69,5.0-10.0,obese,no,yes,not_suspected,no,no,no,no,yes,RRMS,1995-1999
+286,287,patients,male,40-69,5.0-10.0,obese,yes,yes,not_suspected,no,yes,yes,no,no,RRMS,2010-2014
+287,288,patients,male,18-40,0.0-4.5,overweight,yes,yes,suspected,no,yes,no,no,yes,RRMS,2015-2019
+288,289,patients,male,18-40,5.0-10.0,obese,yes,yes,not_suspected,no,yes,no,missing,yes,PPMS,2000-2004
+289,290,patients,male,18-40,5.0-10.0,obese,yes,yes,suspected,yes,yes,yes,no,yes,PPMS,2015-2019
+290,291,patients,female,40-69,0.0-4.5,obese,yes,yes,suspected,yes,yes,no,yes,no,RRMS,2000-2004
+291,292,patients,male,40-69,5.0-10.0,overweight,yes,yes,suspected,no,yes,yes,missing,no,CIS,2005-2009
+292,293,patients,male,18-40,0.0-4.5,obese,yes,yes,suspected,yes,no,yes,yes,yes,SPMS,> 2019
+293,294,patients,female,18-40,0.0-4.5,obese,no,no,suspected,no,no,not_applicable,no,no,RRMS,2010-2014
+294,295,clinicians,female,18-40,0.0-4.5,obese,yes,yes,not_suspected,no,no,no,missing,yes,CIS,> 2019
+295,296,patients,male,18-40,0.0-4.5,obese,no,yes,suspected,no,no,yes,no,no,PPMS,2015-2019
+296,297,patients,female,40-69,5.0-10.0,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,2000-2004
+297,298,patients,female,18-40,0.0-4.5,obese,no,no,not_suspected,no,no,not_applicable,no,yes,RRMS,2015-2019
+298,299,clinicians,female,40-69,5.0-10.0,healthy weight,no,yes,not_suspected,no,no,no,no,no,RRMS,1985-1989
+299,300,clinicians,female,18-40,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,no,PPMS,2015-2019
+300,301,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,no,yes,yes,yes,not_sure,2000-2004
+301,302,clinicians,male,40-69,0.0-4.5,overweight,yes,yes,suspected,no,yes,no,no,no,RRMS,2005-2009
+302,303,patients,female,18-40,5.0-10.0,obese,no,yes,not_suspected,no,no,no,no,no,CIS,> 2019
+303,304,patients,female,40-69,5.0-10.0,overweight,no,no,not_suspected,no,no,not_applicable,no,yes,PPMS,2005-2009
+304,305,patients,male,40-69,5.0-10.0,overweight,no,yes,suspected,yes,no,no,no,no,RRMS,1995-1999
+305,306,clinicians,male,40-69,0.0-4.5,obese,no,no,not_suspected,no,no,not_applicable,no,no,PPMS,< 1980
+306,307,clinicians,male,18-40,5.0-10.0,healthy weight,no,yes,not_suspected,no,no,no,no,yes,CIS,2015-2019
+307,308,patients,male,18-40,0.0-4.5,healthy weight,no,no,suspected,no,no,not_applicable,no,yes,SPMS,2015-2019
+308,309,clinicians,male,18-40,5.0-10.0,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,no,PPMS,2010-2014
+309,310,patients,female,18-40,0.0-4.5,obese,yes,yes,suspected,no,yes,no,yes,yes,RRMS,2010-2014
+310,311,clinicians,female,40-69,5.0-10.0,overweight,no,yes,not_suspected,yes,no,no,no,yes,not_sure,2010-2014
+311,312,clinicians,female,18-40,0.0-4.5,overweight,yes,yes,suspected,no,yes,yes,yes,no,SPMS,> 2019
+312,313,patients,female,40-69,0.0-4.5,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,CIS,2000-2004
+313,314,clinicians,female,18-40,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,yes,missing,no,RRMS,2015-2019
+314,315,clinicians,male,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,no,no,yes,no,no,SPMS,2005-2009
+315,316,clinicians,female,18-40,0.0-4.5,obese,no,no,suspected,yes,no,not_applicable,no,yes,RRMS,2010-2014
+316,317,clinicians,male,18-40,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,yes,CIS,2000-2004
+317,318,clinicians,male,40-69,0.0-4.5,obese,no,yes,not_suspected,no,no,no,no,yes,RRMS,1985-1989
+318,319,clinicians,male,18-40,0.0-4.5,healthy weight,no,yes,not_suspected,no,no,no,no,yes,RRMS,2000-2004
+319,320,clinicians,male,40-69,5.0-10.0,overweight,no,no,suspected,yes,no,not_applicable,no,yes,PPMS,< 1980
+320,321,patients,female,18-40,0.0-4.5,obese,no,yes,not_suspected,yes,no,yes,no,no,PPMS,2010-2014
+321,322,patients,male,40-69,0.0-4.5,obese,no,yes,suspected,no,no,yes,no,yes,not_sure,1980-1984
+322,323,patients,female,40-69,0.0-4.5,obese,yes,yes,not_suspected,no,no,no,missing,no,not_sure,2005-2009
+323,324,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,yes,no,yes,no,PPMS,2005-2009
+324,325,patients,male,18-40,5.0-10.0,overweight,no,no,not_suspected,no,no,not_applicable,no,no,CIS,2010-2014
+325,326,patients,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,no,yes,missing,no,PPMS,2010-2014
+326,327,patients,male,40-69,0.0-4.5,overweight,no,no,suspected,no,no,not_applicable,no,no,not_sure,1990-1994
+327,328,patients,male,18-40,0.0-4.5,overweight,no,yes,not_suspected,yes,no,no,no,no,SPMS,2015-2019
+328,329,clinicians,female,40-69,5.0-10.0,overweight,no,no,suspected,yes,no,not_applicable,no,no,RRMS,< 1980
+329,330,clinicians,female,18-40,0.0-4.5,obese,no,yes,suspected,no,no,no,no,no,CIS,2015-2019
+330,331,patients,male,40-69,0.0-4.5,obese,no,yes,suspected,no,no,yes,no,yes,not_sure,2000-2004
+331,332,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,yes,no,no,RRMS,2010-2014
+332,333,patients,female,40-69,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,< 1980
+333,334,patients,male,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,no,no,missing,no,CIS,2005-2009
+334,335,clinicians,female,18-40,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,RRMS,> 2019
+335,336,clinicians,female,18-40,0.0-4.5,obese,no,yes,suspected,no,no,no,no,no,CIS,2010-2014
+336,337,patients,male,40-69,5.0-10.0,overweight,no,yes,not_suspected,yes,no,no,no,no,CIS,1985-1989
+337,338,patients,male,18-40,0.0-4.5,obese,no,no,suspected,no,no,not_applicable,no,yes,RRMS,> 2019
+338,339,clinicians,male,18-40,5.0-10.0,obese,no,no,suspected,yes,no,not_applicable,no,no,RRMS,2010-2014
+339,340,clinicians,female,18-40,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,yes,yes,no,RRMS,> 2019
+340,341,clinicians,female,18-40,5.0-10.0,overweight,yes,yes,suspected,no,yes,no,no,no,SPMS,> 2019
+341,342,clinicians,male,18-40,0.0-4.5,healthy weight,no,yes,suspected,no,no,yes,no,yes,RRMS,> 2019
+342,343,clinicians,female,18-40,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,yes,no,no,RRMS,> 2019
+343,344,patients,male,18-40,5.0-10.0,overweight,yes,yes,not_suspected,yes,no,no,yes,no,PPMS,2005-2009
+344,345,patients,female,18-40,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,2010-2014
+345,346,clinicians,female,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,yes,yes,missing,yes,PPMS,2000-2004
+346,347,patients,female,40-69,0.0-4.5,overweight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,1985-1989
+347,348,patients,female,18-40,0.0-4.5,healthy weight,no,no,suspected,no,no,not_applicable,no,no,CIS,2005-2009
+348,349,patients,male,18-40,0.0-4.5,healthy weight,no,yes,not_suspected,no,no,no,no,yes,PPMS,> 2019
+349,350,clinicians,male,40-69,5.0-10.0,healthy weight,no,yes,suspected,no,no,no,no,yes,RRMS,1990-1994
+350,351,patients,female,18-40,0.0-4.5,overweight,yes,yes,suspected,yes,no,yes,missing,no,CIS,2005-2009
+351,352,patients,female,18-40,5.0-10.0,overweight,no,yes,not_suspected,no,no,no,no,yes,RRMS,2010-2014
+352,353,patients,male,18-40,0.0-4.5,obese,no,yes,suspected,yes,no,yes,no,yes,RRMS,2005-2009
+353,354,clinicians,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,no,yes,no,missing,yes,PPMS,> 2019
+354,355,patients,female,40-69,0.0-4.5,overweight,no,yes,not_suspected,yes,no,no,no,yes,not_sure,2015-2019
+355,356,clinicians,male,40-69,5.0-10.0,obese,no,no,suspected,no,no,not_applicable,no,no,not_sure,> 2019
+356,357,patients,female,40-69,5.0-10.0,obese,yes,yes,suspected,no,no,no,yes,no,CIS,1995-1999
+357,358,patients,male,18-40,0.0-4.5,healthy weight,no,no,not_suspected,no,no,not_applicable,no,no,RRMS,> 2019
+358,359,patients,female,18-40,0.0-4.5,healthy weight,no,yes,suspected,yes,no,no,no,yes,RRMS,2010-2014
+359,360,patients,male,40-69,0.0-4.5,obese,yes,yes,not_suspected,yes,yes,no,missing,yes,RRMS,2000-2004
+360,361,clinicians,female,40-69,0.0-4.5,obese,yes,yes,not_suspected,no,yes,no,yes,yes,PPMS,< 1980
+361,362,patients,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,no,no,no,yes,yes,RRMS,> 2019
+362,363,patients,female,40-69,0.0-4.5,obese,no,no,not_suspected,yes,no,not_applicable,no,no,CIS,1995-1999
+363,364,clinicians,male,40-69,0.0-4.5,obese,no,no,not_suspected,no,no,not_applicable,no,no,RRMS,1995-1999
+364,365,clinicians,male,40-69,0.0-4.5,overweight,yes,yes,suspected,no,yes,no,no,yes,RRMS,2005-2009
+365,366,patients,male,18-40,5.0-10.0,healthy weight,no,yes,suspected,yes,no,no,no,no,CIS,2010-2014
+366,367,clinicians,female,40-69,5.0-10.0,obese,yes,yes,suspected,yes,no,yes,missing,yes,RRMS,2010-2014
+367,368,patients,male,40-69,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,yes,no,missing,no,not_sure,1995-1999
+368,369,patients,female,40-69,0.0-4.5,obese,no,yes,not_suspected,yes,no,yes,no,no,SPMS,2005-2009
+369,370,clinicians,female,40-69,0.0-4.5,obese,yes,yes,not_suspected,no,yes,yes,no,no,RRMS,< 1980
+370,371,patients,male,18-40,5.0-10.0,overweight,no,yes,suspected,yes,no,no,no,yes,CIS,> 2019
+371,372,patients,female,18-40,0.0-4.5,overweight,no,no,suspected,no,no,not_applicable,no,yes,RRMS,2015-2019
+372,373,patients,male,40-69,0.0-4.5,overweight,yes,yes,not_suspected,no,yes,no,no,yes,CIS,2015-2019
+373,374,patients,female,40-69,5.0-10.0,obese,yes,yes,suspected,yes,no,no,missing,no,RRMS,> 2019
+374,375,patients,female,18-40,0.0-4.5,overweight,no,yes,suspected,no,no,yes,no,no,CIS,2015-2019
+375,376,patients,female,18-40,5.0-10.0,overweight,yes,yes,suspected,no,yes,no,no,yes,SPMS,2005-2009
+376,377,patients,female,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,yes,yes,missing,yes,RRMS,1995-1999
+377,378,patients,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,no,no,yes,yes,no,PPMS,2010-2014
+378,379,clinicians,female,18-40,5.0-10.0,obese,yes,yes,suspected,yes,yes,no,missing,yes,RRMS,2015-2019
+379,380,clinicians,female,18-40,5.0-10.0,overweight,yes,yes,not_suspected,no,no,no,missing,no,RRMS,2005-2009
+380,381,clinicians,male,40-69,0.0-4.5,overweight,no,no,not_suspected,no,no,not_applicable,no,no,not_sure,2000-2004
+381,382,patients,male,40-69,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,yes,CIS,2005-2009
+382,383,patients,female,18-40,5.0-10.0,healthy weight,yes,yes,suspected,no,no,no,no,yes,CIS,2015-2019
+383,384,clinicians,male,18-40,5.0-10.0,healthy weight,no,no,not_suspected,no,no,not_applicable,no,no,RRMS,2010-2014
+384,385,clinicians,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,no,yes,no,RRMS,> 2019
+385,386,patients,female,18-40,0.0-4.5,overweight,no,yes,not_suspected,yes,no,no,no,no,not_sure,2015-2019
+386,387,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,yes,yes,no,not_sure,2015-2019
+387,388,clinicians,male,40-69,0.0-4.5,healthy weight,no,yes,not_suspected,yes,no,yes,no,no,RRMS,> 2019
+388,389,patients,female,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,no,yes,no,yes,RRMS,> 2019
+389,390,patients,male,18-40,0.0-4.5,obese,no,yes,not_suspected,no,no,yes,no,no,RRMS,2010-2014
+390,391,clinicians,female,18-40,0.0-4.5,obese,no,yes,not_suspected,no,no,yes,no,no,CIS,2005-2009
+391,392,patients,female,40-69,0.0-4.5,healthy weight,no,yes,suspected,no,no,yes,no,no,RRMS,2010-2014
+392,393,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,yes,no,no,yes,RRMS,2010-2014
+393,394,clinicians,female,40-69,0.0-4.5,obese,no,yes,suspected,no,no,no,no,no,CIS,1990-1994
+394,395,patients,male,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,no,yes,no,missing,no,PPMS,2015-2019
+395,396,patients,female,40-69,0.0-4.5,healthy weight,no,yes,not_suspected,yes,no,no,no,yes,PPMS,1995-1999
+396,397,patients,male,18-40,0.0-4.5,overweight,yes,yes,suspected,no,yes,yes,yes,no,not_sure,2010-2014
+397,398,clinicians,female,40-69,0.0-4.5,obese,no,yes,suspected,no,no,yes,no,yes,PPMS,1990-1994
+398,399,clinicians,male,18-40,0.0-4.5,overweight,yes,yes,not_suspected,no,yes,no,missing,yes,RRMS,> 2019
+399,400,patients,female,18-40,5.0-10.0,obese,yes,yes,not_suspected,yes,no,yes,no,no,CIS,2010-2014
+400,401,patients,male,40-69,5.0-10.0,healthy weight,no,yes,not_suspected,no,no,no,no,no,CIS,1995-1999
+401,402,patients,male,18-40,0.0-4.5,obese,yes,yes,not_suspected,yes,yes,no,missing,yes,RRMS,2005-2009
+402,403,patients,male,40-69,5.0-10.0,obese,no,yes,not_suspected,yes,no,no,no,yes,RRMS,1995-1999
+403,404,patients,male,40-69,0.0-4.5,healthy weight,yes,yes,not_suspected,no,yes,no,missing,yes,CIS,2005-2009
+404,405,clinicians,male,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,no,yes,yes,yes,yes,PPMS,2000-2004
+405,406,clinicians,male,40-69,5.0-10.0,healthy weight,no,yes,not_suspected,no,no,yes,no,no,CIS,1985-1989
+406,407,patients,female,40-69,0.0-4.5,healthy weight,no,yes,not_suspected,yes,no,yes,no,no,RRMS,2005-2009
+407,408,patients,male,40-69,0.0-4.5,obese,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,2015-2019
+408,409,clinicians,female,18-40,0.0-4.5,obese,no,yes,suspected,no,no,no,no,yes,RRMS,2010-2014
+409,410,clinicians,female,18-40,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,no,yes,SPMS,1995-1999
+410,411,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,yes,missing,yes,SPMS,2000-2004
+411,412,clinicians,male,40-69,0.0-4.5,healthy weight,yes,yes,suspected,yes,no,yes,no,no,not_sure,2005-2009
+412,413,patients,male,40-69,5.0-10.0,overweight,yes,yes,suspected,no,no,no,yes,yes,RRMS,2010-2014
+413,414,patients,female,40-69,0.0-4.5,overweight,yes,yes,not_suspected,yes,yes,no,yes,yes,RRMS,> 2019
+414,415,patients,male,40-69,5.0-10.0,healthy weight,no,yes,not_suspected,no,no,yes,no,no,PPMS,2010-2014
+415,416,patients,male,40-69,5.0-10.0,obese,yes,yes,suspected,yes,yes,no,yes,yes,RRMS,1985-1989
+416,417,clinicians,female,40-69,5.0-10.0,overweight,no,yes,not_suspected,no,no,yes,no,no,PPMS,> 2019
+417,418,clinicians,female,40-69,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,SPMS,2005-2009
+418,419,patients,female,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,no,yes,no,yes,CIS,2000-2004
+419,420,patients,female,40-69,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,no,no,no,CIS,2015-2019
+420,421,patients,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,yes,yes,yes,yes,RRMS,2000-2004
+421,422,clinicians,female,18-40,0.0-4.5,overweight,yes,yes,suspected,yes,no,yes,no,no,PPMS,2010-2014
+422,423,clinicians,female,18-40,5.0-10.0,overweight,yes,yes,not_suspected,yes,yes,yes,missing,yes,CIS,2005-2009
+423,424,patients,female,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,no,no,no,missing,yes,PPMS,2000-2004
+424,425,patients,female,40-69,5.0-10.0,healthy weight,no,no,not_suspected,no,no,not_applicable,no,no,CIS,2015-2019
+425,426,patients,male,18-40,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,yes,RRMS,1995-1999
+426,427,patients,male,40-69,0.0-4.5,overweight,no,yes,suspected,no,no,yes,no,no,CIS,2010-2014
+427,428,patients,female,18-40,0.0-4.5,obese,yes,yes,not_suspected,no,no,yes,yes,no,RRMS,2015-2019
+428,429,patients,male,18-40,5.0-10.0,overweight,yes,yes,not_suspected,no,yes,yes,no,yes,not_sure,> 2019
+429,430,clinicians,female,18-40,0.0-4.5,overweight,no,no,suspected,no,no,not_applicable,no,no,RRMS,> 2019
+430,431,patients,female,40-69,5.0-10.0,overweight,yes,yes,suspected,yes,yes,no,missing,no,not_sure,1985-1989
+431,432,patients,male,40-69,0.0-4.5,overweight,yes,yes,not_suspected,yes,no,no,yes,yes,RRMS,2005-2009
+432,433,clinicians,male,18-40,0.0-4.5,healthy weight,no,no,suspected,no,no,not_applicable,no,no,PPMS,2005-2009
+433,434,clinicians,female,40-69,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,> 2019
+434,435,patients,female,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,yes,missing,yes,RRMS,2010-2014
+435,436,patients,female,40-69,5.0-10.0,obese,yes,yes,not_suspected,yes,yes,no,missing,no,RRMS,2015-2019
+436,437,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,yes,yes,yes,missing,yes,SPMS,< 1980
+437,438,patients,female,40-69,5.0-10.0,obese,no,no,suspected,no,no,not_applicable,no,no,RRMS,2015-2019
+438,439,clinicians,male,40-69,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,yes,PPMS,2015-2019
+439,440,clinicians,female,18-40,5.0-10.0,obese,yes,yes,suspected,no,yes,yes,missing,yes,CIS,2015-2019
+440,441,clinicians,male,40-69,5.0-10.0,obese,yes,yes,not_suspected,no,yes,yes,missing,yes,SPMS,1985-1989
+441,442,patients,male,18-40,5.0-10.0,healthy weight,no,no,not_suspected,no,no,not_applicable,no,yes,RRMS,2010-2014
+442,443,clinicians,female,40-69,0.0-4.5,overweight,no,yes,not_suspected,yes,no,no,no,no,RRMS,2015-2019
+443,444,clinicians,male,40-69,0.0-4.5,obese,yes,yes,not_suspected,yes,yes,yes,no,yes,not_sure,1995-1999
+444,445,clinicians,female,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,yes,yes,no,no,RRMS,1980-1984
+445,446,clinicians,male,40-69,5.0-10.0,overweight,yes,yes,suspected,yes,yes,no,missing,yes,CIS,2010-2014
+446,447,patients,male,18-40,5.0-10.0,obese,yes,yes,suspected,no,no,yes,no,no,PPMS,2015-2019
+447,448,clinicians,male,40-69,5.0-10.0,obese,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,1995-1999
+448,449,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,no,yes,missing,yes,SPMS,2010-2014
+449,450,clinicians,female,18-40,5.0-10.0,healthy weight,no,yes,not_suspected,yes,no,yes,no,no,RRMS,2010-2014
+450,451,patients,female,40-69,5.0-10.0,obese,no,no,not_suspected,no,no,not_applicable,no,no,RRMS,1985-1989
+451,452,patients,female,18-40,5.0-10.0,overweight,yes,yes,suspected,yes,no,no,yes,no,CIS,2010-2014
+452,453,patients,female,40-69,5.0-10.0,obese,no,yes,not_suspected,yes,no,no,no,yes,CIS,> 2019
+453,454,patients,female,40-69,0.0-4.5,overweight,yes,yes,not_suspected,no,yes,no,no,yes,CIS,1990-1994
+454,455,clinicians,female,18-40,0.0-4.5,overweight,yes,yes,not_suspected,yes,yes,no,yes,no,RRMS,2015-2019
+455,456,clinicians,female,40-69,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,no,CIS,< 1980
+456,457,patients,female,40-69,0.0-4.5,obese,yes,yes,suspected,yes,yes,yes,missing,yes,PPMS,1985-1989
+457,458,patients,female,40-69,0.0-4.5,obese,no,no,suspected,yes,no,not_applicable,no,no,CIS,1990-1994
+458,459,patients,male,18-40,0.0-4.5,healthy weight,yes,yes,not_suspected,yes,no,yes,yes,no,RRMS,1990-1994
+459,460,clinicians,male,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,yes,no,yes,no,RRMS,2010-2014
+460,461,patients,female,18-40,0.0-4.5,overweight,no,no,suspected,no,no,not_applicable,no,yes,RRMS,> 2019
+461,462,clinicians,female,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,no,no,yes,yes,no,RRMS,2015-2019
+462,463,patients,female,18-40,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,yes,SPMS,2015-2019
+463,464,patients,female,18-40,5.0-10.0,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,PPMS,2015-2019
+464,465,patients,male,40-69,5.0-10.0,healthy weight,yes,yes,suspected,yes,yes,yes,missing,no,not_sure,2015-2019
+465,466,patients,male,40-69,0.0-4.5,healthy weight,no,yes,suspected,yes,no,no,no,yes,RRMS,2015-2019
+466,467,patients,female,18-40,0.0-4.5,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,2015-2019
+467,468,clinicians,male,40-69,0.0-4.5,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,yes,RRMS,2015-2019
+468,469,patients,male,18-40,0.0-4.5,overweight,no,no,suspected,yes,no,not_applicable,no,yes,RRMS,2010-2014
+469,470,clinicians,female,40-69,0.0-4.5,overweight,no,yes,not_suspected,yes,no,yes,no,yes,SPMS,1995-1999
+470,471,clinicians,female,40-69,0.0-4.5,overweight,no,no,not_suspected,yes,no,not_applicable,no,no,RRMS,2015-2019
+471,472,patients,female,40-69,5.0-10.0,healthy weight,no,yes,suspected,yes,no,no,no,yes,RRMS,1980-1984
+472,473,clinicians,male,18-40,0.0-4.5,overweight,yes,yes,not_suspected,no,no,yes,missing,no,not_sure,2015-2019
+473,474,patients,male,18-40,5.0-10.0,healthy weight,yes,yes,not_suspected,yes,yes,no,no,no,PPMS,2015-2019
+474,475,patients,male,40-69,0.0-4.5,overweight,yes,yes,suspected,yes,no,yes,yes,yes,PPMS,1990-1994
+475,476,patients,male,18-40,0.0-4.5,overweight,yes,yes,not_suspected,yes,no,no,missing,no,CIS,2010-2014
+476,477,patients,male,40-69,5.0-10.0,obese,yes,yes,not_suspected,no,no,no,yes,no,CIS,1985-1989
+477,478,patients,male,40-69,0.0-4.5,overweight,no,yes,suspected,no,no,yes,no,yes,SPMS,2005-2009
+478,479,patients,male,18-40,0.0-4.5,overweight,no,yes,not_suspected,no,no,yes,no,yes,PPMS,> 2019
+479,480,patients,male,40-69,5.0-10.0,obese,yes,yes,suspected,yes,yes,yes,no,yes,RRMS,< 1980
+480,481,patients,male,40-69,0.0-4.5,overweight,no,no,suspected,no,no,not_applicable,no,yes,SPMS,2005-2009
+481,482,patients,male,18-40,0.0-4.5,overweight,no,no,suspected,no,no,not_applicable,no,no,SPMS,2000-2004
+482,483,clinicians,female,40-69,5.0-10.0,overweight,yes,yes,suspected,no,no,no,missing,yes,CIS,< 1980
+483,484,clinicians,male,18-40,5.0-10.0,healthy weight,no,no,not_suspected,yes,no,not_applicable,no,yes,not_sure,2015-2019
+484,485,patients,male,18-40,0.0-4.5,overweight,yes,yes,not_suspected,yes,no,no,no,yes,not_sure,2015-2019
+485,486,clinicians,female,40-69,5.0-10.0,overweight,no,no,suspected,no,no,not_applicable,no,no,PPMS,2010-2014
+486,487,clinicians,male,40-69,5.0-10.0,obese,yes,yes,suspected,no,no,yes,missing,yes,CIS,2015-2019
+487,488,patients,male,40-69,5.0-10.0,overweight,no,yes,suspected,no,no,no,no,no,CIS,> 2019
+488,489,clinicians,female,40-69,0.0-4.5,overweight,no,yes,suspected,no,no,no,no,no,RRMS,1990-1994
+489,490,patients,male,40-69,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,CIS,1995-1999
+490,491,clinicians,female,40-69,0.0-4.5,obese,no,no,suspected,no,no,not_applicable,no,no,RRMS,1980-1984
+491,492,clinicians,male,40-69,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,PPMS,< 1980
+492,493,clinicians,male,40-69,0.0-4.5,obese,no,yes,suspected,no,no,yes,no,no,not_sure,2015-2019
+493,494,clinicians,male,40-69,5.0-10.0,healthy weight,yes,yes,suspected,no,no,no,missing,no,RRMS,2010-2014
+494,495,patients,male,18-40,5.0-10.0,obese,no,no,suspected,yes,no,not_applicable,no,no,CIS,> 2019
+495,496,patients,male,40-69,0.0-4.5,healthy weight,yes,yes,suspected,no,no,no,missing,no,RRMS,2010-2014
+496,497,patients,female,18-40,5.0-10.0,obese,yes,yes,not_suspected,yes,yes,yes,yes,no,PPMS,2015-2019
+497,498,clinicians,male,18-40,0.0-4.5,obese,no,yes,not_suspected,yes,no,yes,no,yes,CIS,> 2019
+498,499,patients,female,18-40,0.0-4.5,obese,no,no,not_suspected,yes,no,not_applicable,no,no,not_sure,> 2019
+499,500,clinicians,male,40-69,0.0-4.5,healthy weight,no,no,suspected,yes,no,not_applicable,no,yes,SPMS,2015-2019
